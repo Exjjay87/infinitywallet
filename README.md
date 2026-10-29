@@ -1,6 +1,6 @@
 # Infinity Wallet Deprecated
 <br/>
-
+Exjjay87/infinitywallet
 **Dear Visitor**,
 
 The Infinity Wallet software has been deprecated and is no longer supported. While the software may continue to partially function due to its non-custodial nature, functionality may at some time be no longer available. Any further usage continues to be at your own risk.
